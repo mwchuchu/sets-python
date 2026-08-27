@@ -114,13 +114,13 @@ pip install notebook
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/mwchuchu/sets-python
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd <PROJECT_DIRECTORY>
+cd sets-python
 ```
 
 Launch Jupyter Notebook:
